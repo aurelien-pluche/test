@@ -1,0 +1,168 @@
+<resources>
+    <string name="app_name">EnceinteKotlin</string>
+
+    <!-- Main -->
+    <string name="main_title">Pregnant</string>
+    <string name="main_infos">Practical information</string>
+    <string name="main_alimentation">Food</string>
+
+    <!-- Food -->
+    <string name="nav_fruit_vegetable_title">Vegetable</string>
+    <string name="nav_meat_fish_title">Meat</string>
+    <string name="nav_drink_title">Drink</string>
+    <string name="nav_cheese_title">Cheese</string>
+    <string name="nav_other_title">Other</string>
+
+    <!-- Food Detail -->
+    <string name="avis">Opinion</string>
+    <string name="avis_0">You have to eat it !</string>
+    <string name="avis_1">Be careful</string>
+    <string name="avis_2">To avoid</string>
+    <string name="information">Information</string>
+    <string name="risk">Risk</string>
+
+    <string name="share_food">Do you know the application Pregnant ?\n\nI just known that the %1$s, for a pregnant woman
+        :\n\nIt needs %2$s\n\nAnd the risks are :\n\n %3$s.
+    </string>
+
+    <string name="r0">No</string>
+    <string name="r1">Toxoplasmosis :\n\nThe toxoplasmosis is an infectious disease due to a parasite. It can
+        contract by eating poorly cooked contaminated meat, poorly washed raw vegetables or dirty water. Most of the
+        time, it does not cause symptoms and is not serious. However,
+        it sometimes causes fetal complications in non-immunized pregnant women.
+    </string>
+    <string name="r2">Digestive problem</string>
+    <string name="r3">Various</string>
+    <string name="r4">Listeriosis :\n\nThe listeriosis is a bacterial disease that affects many species
+        animal and that is caused by Listeria monocytogenes. The transmission of this disease is
+        basically by the food. Most species are found to be septicemic forms,
+        nerve forms and genital forms.
+        Prevention is based on strict hygiene.
+        Listeriosis is manifested by sepsis, meningitis (or meningoencephalitis), a
+        encephalitis, and intrauterine or cervical infections in pregnant women,
+        which can lead to spontaneous abortion (in the second and third trimesters).
+    </string>
+    <string name="r5">Obesity</string>
+    <string name="r6">Maternal obesity</string>
+    <string name="r7">Having the tapeworm.</string>
+    <string name="r8">Hypotension</string>
+    <string name="r9">Excess caffeine</string>
+    <string name="r10">Excess sodium</string>
+    <string name="r11">Gestational Diabetes</string>
+    <string name="r12">Prevents iron from getting fixed.</string>
+    <string name="r13">Premature delivery</string>
+    <string name="r14">Fetal alcohol</string>
+    <string name="r15">Allergy</string>
+    <string name="r16">Salmonellosis :\n\nThe salmonellosis eis a bacterial infection due to enterobacteriaceae
+        Salmonella, responsible for typhoid or para-typhoid fevers (notifiable diseases),
+        of gastroenteritis, food poisoning.\n\nMost people infected with bacteria from
+        Salmonella genus develop diarrhea, fever, and abdominal cramps within 12 to 48 hours.
+        hours after infection. The illness usually lasts 4 to 7 days and most people recover without
+        treatment.\n\nThe elderly, children, pregnant women and those who have diseases causing
+        Immune deficiencies are more likely to contract this form of the disease.
+    </string>
+    <string name="r17">Microbial risks</string>
+    <string name="r18">Listeriosis : \n\nThe listeriosis
+        is a bacterial disease that affects many species
+        animal diseases and that is caused by Listeria monocytogenes. The transmission of this disease is
+        essentially by the food. Most species are found to be septicemic forms,
+        Nerve forms and genital forms. Prevention relies on a strict respect for hygiene. The
+        listeriosis includes sepsis, meningitis (or meningoencephalitis),
+        encephalitis, and intrauterine or cervical infections in pregnant women, which may lead to
+        spontaneous abortion (in the second and third trimesters).
+    </string>
+    <string name="r19">Toxoplasmosis :\n\nThe toxoplasmosis is an infectious disease due to a parasite. It can
+        contract by eating undercooked contaminated meat, poorly washed vegetables or dirty water. Most
+        of the time, it does not cause any symptoms and is not serious. However, it sometimes causes
+        fetal complications in non-immunized pregnant women.
+    </string>
+
+    <string name="i0">No</string>
+    <string name="i1">Clean well if in contact with the earth.</string>
+    <string name="i2">Do not abuse !</string>
+    <string name="i3">Wash well.</string>
+    <string name="i4">To be limited because of phytoestrogen.</string>
+    <string name="i5">Consume only with pasteurized milk.</string>
+    <string name="i6">Check the freshness of food.</string>
+    <string name="i7">Cook well</string>
+    <string name="i8">Do not abuse !</string>
+    <string name="i9">Cook the meat well\n\nand\n\nWash the vegetables well.</string>
+    <string name="i10">Cook the meat well\n\nand\n\nClean the condiments.</string>
+    <string name="i11">Prevents iron from fixing \n\nand\n\nHigh density of methylmercury.</string>
+    <string name="i12">Consume only industrial white ham</string>
+    <string name="i13">Consume only fresh fish by cooking well.\n\nAvoid raw fish and smoked !</string>
+    <string name="i14">Do not abuse !\n\nOily fish !</string>
+    <string name="i15">To eat only cooked .</string>
+    <string name="i16">Consume only poultry in industrial packaging\n\nCook well !</string>
+    <string name="i17">Do not drink if you have low blood pressure !</string>
+    <string name="i18">Can cause a small weight during birth or miscarriage\n\nDo not abuse !</string>
+    <string name="i19">Avoid drinking too much instead of coffee\n\nIt\'s better a cup of coffee than a liter of
+        decaffeinated.
+    </string>
+    <string name="i20">Avoid if you have water retention or high blood pressure.\n\nContains a lot of salt
+        !
+    </string>
+    <string name="i21">Avoid if you have water retention or high blood pressure.</string>
+    <string name="i22">Do not abuse !\n\nCconsume rather plain water !</string>
+    <string name="i23">The artisanal juice is to be avoided !\nExcept if it is pasteurized\n\n Industrial juice does not
+        contain any risk.
+    </string>
+    <string name="i24">Milk is a drink that brings many nutrients to the baby\n
+        It is advisable to
+        drink regularly\n\nAnd avoid raw milk !
+    </string>
+    <string name="i25">Some herbs may have negative effects on pregnancy.\n\nDo not abuse !</string>
+    <string name="i26">Do not eat the crust.</string>
+    <string name="i27">Check food and quality.\n\nDo not abuse !</string>
+    <string name="i28">Cook the meat well !\nWash the vegetables well\n\nDo not abuse !\n\nThe wine sauce is not good
+        for a pregnant woman.
+    </string>
+    <string name="i29">Cook the meat well!\n\nDo not overuse!\n\nWine sauce is not good for a woman pregnant.</string>
+    <string name="i30">Consume without raw egg.</string>
+    <string name="i31">Avoid spicy foods,\n\nmerguez,\n\n and undercooked foods !</string>
+    <string name="i32">Consume pasteurized milk cheese and a fresh egg.</string>
+    <string name="i33">Consume pasteurized milk cheese.</string>
+    <string name="i34">Consume cheeses with pasteurized milk.\n\nPut the minimum wine !</string>
+    <string name="i35">Avoid an omelette that is too slobbery.\n\nConsume fresh eggs !</string>
+    <string name="i36">Consume fresh products.\n\nCook each food well !</string>
+    <string name="i37">Consume quickly !\n\nCheck the freshness.</string>
+    <string name="i38">Consume quickly !\n\nConsume fresh eggs !</string>
+    <string name="i39">Wash the salad well before eating !</string>
+    <string name="i40">Cook the sausage well !\n\nDo not abuse !</string>
+    <string name="i41">To eat a reblochon with pasteurized milk.</string>
+    <string name="i42">The stuffing should be well cooked.</string>
+    <string name="i43">Do not consume peanuts or dishes containing them if you have an allergy !
+    </string>
+    <string name="i44">Instead, eat real sugar.</string>
+    <string name="i45">Use fresh eggs !\n\nTo consume quickly !</string>
+    <string name="i46">Not to consume during the first three months of pregnancy !</string>
+    <string name="i47">Do not take in high doses !</string>
+    <string name="i48">Do not abuse !\n\nNormally not harmful to the child.</string>
+    <string name="i49">Promotes childbirth.\n\nOnly consume at the end of pregnancy !</string>
+    <string name="i50">Taken in too big a quantity can :\n\nTo provoke contractions.\n\n To provoke fake layers.
+    </string>
+    <string name="i51">Consume rather another oil (sunflower, olive, etc.).</string>
+    <string name="i52">If you prepared a homemade mayonnaise :\n\nUse fresh eggs\n\nConsume quickly !
+    </string>
+    <string name="i53">Do not consume homemade honey !\n\n May contain microbes due to bees.</string>
+    <string name="i54">High concentration of vitamin that can cause fetal disorders.</string>
+    <string name="i55">Choose a cooked foie gras and canned and not home-made, half-cooked or cut at home
+        caterer.\n\nDo not abuse !
+    </string>
+    <string name="i56">Give preference to mineral water</string>
+    <string name="i57">To eat with pasteurized milk !\n\nDo not eat the crust !</string>
+    <string name="i58">Do not consume !\n\nBecause of the preservation of eggs and fresh cream</string>
+    <string name="i59">May cause miscarriage !</string>
+    <string name="i60">May cause contractions, and possible miscarriage.</string>
+    <string name="i61">Contains too many vitamins.\n\nHarmful for the baby !</string>
+    <string name="i62">High concentration of vitamin that can cause fetal disorders.</string>
+    <string name="i63">May have anticoagulant action and stimulate blood flow.</string>
+    <string name="i64">May cause headache or nausea</string>
+    <string name="i65">Use fresh eggs !</string>
+    <string name="i66">Preparations made from rosemary leaves are not recommended because of its effects neurotoxic.
+    </string>
+
+    <string name="facebook_app_id" translatable="false">500170553906810</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb500170553906810</string>
+
+</resources>

@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">EnceinteKotlin</string>
+
+    <!-- Main -->
+    <string name="main_title">Enceinte</string>
+    <string name="main_infos">Infos pratiques</string>
+    <string name="main_alimentation">Alimentation</string>
+
+    <!-- Food -->
+    <string name="nav_fruit_vegetable_title">Légume</string>
+    <string name="nav_meat_fish_title">Viande</string>
+    <string name="nav_drink_title">Boisson</string>
+    <string name="nav_cheese_title">Fromage</string>
+    <string name="nav_other_title">Autre</string>
+
+    <!-- Food Detail -->
+    <string name="avis">Avis</string>
+    <string name="avis_0">Il faut en manger !</string>
+    <string name="avis_1">Faire attention</string>
+    <string name="avis_2">À éviter</string>
+    <string name="information">Information</string>
+    <string name="risk">Risque</string>
+
+    <string name="share_food">Tu connais l\'application Enceinte ?\n\nJe viens d\'apprendre que pour le\la %1$s, il faut pour une femme enceinte :\n\nQu\'il faut %2$s\n\nEt quels sont les risques :\n\n %3$s.</string>
+
+    <string name="r0">Aucun</string>
+    <string name="r1">Toxoplasmose :\n\nLa toxoplasmose est une maladie infectieuse due à un parasite. Elle peut se
+        contracter en consommant de la viande contaminée mal cuite, des crudités mal lavées ou de l\'eau souillée. Le
+        plus souvent, elle n\'entraîne pas de symptôme et est sans gravité. Cependant, elle provoque parfois des
+        complications fœtales chez les femmes enceintes non immunisées.
+    </string>
+    <string name="r2">Problème digestif</string>
+    <string name="r3">Divers</string>
+    <string name="r4">Listériose :\n\nLa listériose est une maladie bactérienne qui affecte de nombreuses espèces
+        animales et qui est causée par la Listeria monocytogenes. La transmission de cette maladie se fait
+        essentiellement par l\'alimentation. On retrouve pour la plupart des espèces des formes septicémiques, des
+        formes nerveuses et des formes génitales. La prévention repose sur un respect strict de l\'hygiène. La
+        listériose se manifeste entre autres par une septicémie, une méningite (ou méningo-encéphalite), une
+        encéphalite, et des infections intra-utérines ou cervicales chez la femme enceinte, ce qui peut entraîner un
+        avortement spontané (au cours des second et troisième trimestres).
+    </string>
+    <string name="r5">Obésité</string>
+    <string name="r6">Obésité maternelle</string>
+    <string name="r7">Avoir le ténia (vers solitaire).</string>
+    <string name="r8">Hypotension</string>
+    <string name="r9">Excès de caféine</string>
+    <string name="r10">Excès de sodium</string>
+    <string name="r11">Diabète gestationnel</string>
+    <string name="r12">Empêche le fer de se fixer.</string>
+    <string name="r13">Accouchement prématuré</string>
+    <string name="r14">Alcoolisme foetal</string>
+    <string name="r15">Allergie</string>
+    <string name="r16">Salmonellose :\n\nLa salmonellose est une infection bactérienne due aux entérobactéries de type
+        Salmonella, responsables de fièvres typhique ou para-typhique (maladies à déclaration obligatoire), de
+        gastro-entérites, de toxi-infections alimentaires.\n\nLa plupart des personnes infectées par des bactéries du
+        genre Salmonella développent de la diarrhée, de la fièvre, et des crampes abdominales dans un délai de 12 à 48
+        heures après l\'infection. La maladie dure en général de 4 à 7 jours et la plupart des personnes récupèrent sans
+        traitement.\n\nLes personnes âgées, les enfants, les femmes enceintes et ceux qui ont des maladies provoquant
+        des déficiences immunitaires ont plus de risques de contracter cette forme de la maladie.
+    </string>
+    <string name="r17">Risques microbiens</string>
+    <string name="r18">Listériose : \n\nLa listériose est une maladie bactérienne qui affecte de nombreuses espèces
+        animales et qui est causée par la Listeria monocytogenes. La transmission de cette maladie se fait
+        essentiellement par l\'alimentation. On retrouve pour la plupart des espèces des formes septicémiques, des
+        formes nerveuses et des formes génitales. La prévention repose sur un respect strict de l\'hygiène. La
+        listériose se manifeste entre autres par une septicémie, une méningite (ou méningo-encéphalite), une
+        encéphalite, et des infections intra-utérines ou cervicales chez la femme enceinte, ce qui peut entraîner un
+        avortement spontané (au cours des second et troisième trimestres).
+    </string>
+    <string name="r19">Toxoplasmose :\n\nLa toxoplasmose est une maladie infectieuse due à un parasite. Elle peut se
+        contracter en consommant de la viande contaminée mal cuite, des crudités mal lavées ou de leau souillée. Le plus
+        souvent, elle n\'entraîne pas de symptôme et est sans gravité. Cependant, elle provoque parfois des
+        complications fœtales chez les femmes enceintes non immunisées.
+    </string>
+
+    <string name="i0">Aucun</string>
+    <string name="i1">Bien nettoyer si en contact avec la terre.</string>
+    <string name="i2">Ne pas en abuser !</string>
+    <string name="i3">Bien laver.</string>
+    <string name="i4">À limiter à cause du phyto-estrogene.</string>
+    <string name="i5">Consommer uniquement au lait pasteurisé.</string>
+    <string name="i6">Vérifier bien la fraîcheur des aliments.</string>
+    <string name="i7">Bien cuire</string>
+    <string name="i8">Ne pas en abuser !</string>
+    <string name="i9">Bien cuire la viande\n\net\n\nBien laver les légumes.</string>
+    <string name="i10">Bien cuire la viande\n\net\n\nBien nettoyer les condiments.</string>
+    <string name="i11">Empêche le fer de se fixer \n\net\n\nForte densité en méthylmercure.</string>
+    <string name="i12">Consommer uniquement du jambon blanc industriel</string>
+    <string name="i13">Consommer uniquement du poisson frais en le faisant bien cuire.\n\nÉviter les poissons crus et
+        fumés !
+    </string>
+    <string name="i14">Ne pas en abuser !\n\nPoisson gras !</string>
+    <string name="i15">À consommer uniquement cuit.</string>
+    <string name="i16">Consommer uniquement des volailles sous emballage industrielle\n\nBien faire cuire !</string>
+    <string name="i17">Ne pas en boire si vous faire de l\'hypotension !</string>
+    <string name="i18">Peut engendrer un petit poids lors de la naissance voire une fausse couche\n\nNe pas en abuser
+        !
+    </string>
+    <string name="i19">Éviter de boire trop à la place de café\n\nIl vaut mieux une tasse de café qu\'un litre de
+        décaféiné.
+    </string>
+    <string name="i20">À éviter si vous faîtes de la rétention d\'eau ou de l\'hypertension.\n\nContient beaucoup de sel
+        !
+    </string>
+    <string name="i21">À éviter si vous faîtes de la rétention d\'eau ou de l\'hypertension.</string>
+    <string name="i22">Ne pas en abuser !\n\nConsommer plutôt de l\'eau plate !</string>
+    <string name="i23">Le jus artisanal est à éviter !\nSauf s\'il est pasteurisé\n\nLe jus industriel ne contient aucun
+        risque.
+    </string>
+    <string name="i24">Le lait est une boisson qui apporte de nombreux nutriments pour le bébé\nIl est conseillé d\'en
+        boire régulièrement\n\nEt éviter le lait cru !
+    </string>
+    <string name="i25">Certaines herbes peuvent avoir des effets négatifs au niveau de la grossesse.\n\nNe pas en abuser
+        !
+    </string>
+    <string name="i26">Ne pas manger la croute.</string>
+    <string name="i27">Vérifier les aliments et leur qualité.\n\nNe pas en abuser !</string>
+    <string name="i28">Bien cuire la viande !\nBien laver les légumes\n\nNe pas en abuser !\n\nLa sauce au vin n\'est
+        pas bonne pour une femme enceinte.
+    </string>
+    <string name="i29">Bien cuire la viande !\n\nNe pas en abuser !\n\nLa sauce au vin n\'est pas bonne pour une femme
+        enceinte.
+    </string>
+    <string name="i30">Consommer sans oeuf cru.</string>
+    <string name="i31">Éviter les aliments épicés,\n\nMerguez,\n\net Aliments peu cuits !</string>
+    <string name="i32">Consommer du fromage au lait pasteurisé et un oeuf frais.</string>
+    <string name="i33">Consommer du fromage au lait pasteurisé.</string>
+    <string name="i34">Consommer des fromages au lait pasteurisé.\n\nMettre le minimum de vin !</string>
+    <string name="i35">Éviter une omelette trop baveuse.\n\nConsommer des oeufs frais !</string>
+    <string name="i36">Consommer des produits frais.\n\nBien cuire chaque aliments !</string>
+    <string name="i37">Consommer rapidement !\n\nVérifier bien la fraîcheur.</string>
+    <string name="i38">Consommer rapidement !\n\nUtiliser des oeufs frais !</string>
+    <string name="i39">Bien relaver la salade avant de consommer !</string>
+    <string name="i40">Bien cuire le saucisson !\n\nNe pas en abuser !</string>
+    <string name="i41">Consommer un reblochon au lait pasteurisé.</string>
+    <string name="i42">La farce doit être bien cuite.</string>
+    <string name="i43">Ne pas consommer la famille des arachides ou plats en contenant si vous avez une allergie !
+    </string>
+    <string name="i44">Consommer plutôt du vrai sucre.</string>
+    <string name="i45">Utiliser des oeufs frais !\n\nÀ consommer rapidement !</string>
+    <string name="i46">À ne surtout pas consommer pendant les trois premiers mois de grossesse !</string>
+    <string name="i47">Ne pas en prendre en forte dose !</string>
+    <string name="i48">Ne pas en abuser !\n\nNormalment non néfaste pour l\'enfant.</string>
+    <string name="i49">Favorise l\'accouchement.\n\nNe consommer uniquement qu\'en fin de grossesse !</string>
+    <string name="i50">Pris en trop grosse quantité peut :\n\nProvoquer des contractions.\n\nProvoquer des fausses
+        couches.
+    </string>
+    <string name="i51">Consommer plutôt une autre huile (tournesol, olive, etc).</string>
+    <string name="i52">Si vous préparé une mayonnaise maison :\n\nUtiliser des oeufs frais\n\nConsommer rapidement !
+    </string>
+    <string name="i53">Ne pas consommer le miel artisanal !\n\nPeut contenir des microbes dues aux abeilles.</string>
+    <string name="i54">Forte concentration en vitamine qui peuvent causer des troubles au foetus.</string>
+    <string name="i55">Choisir un foie gras cuit et en conserve et non fait maison, mi-cuit ou à la coupe chez un
+        traiteur.\n\nNe pas en abuser !
+    </string>
+    <string name="i56">Privilégiez l\'eau minérale</string>
+    <string name="i57">Consommer au lait pasteurisé !\n\nNe pas manger la croute !</string>
+    <string name="i58">Ne surtout pas consommer !\n\nÀ cause des la conservation des oeufs et de la crème fraîche
+    </string>
+    <string name="i59">Peut engendrer une fausse couche !</string>
+    <string name="i60">Peut provoquer des contractions, voir une fausse couche.</string>
+    <string name="i61">Contient trop de vitamines.\n\nNéfaste pour l\'enfant !</string>
+    <string name="i62">Forte concentration en vitamine pouvant causer des troubles au foetus.</string>
+    <string name="i63">Peut avoir une action anticoagulante et stimuler l\'afflux sanguin.</string>
+    <string name="i64">Peut provoquer des maux de tête voir des nausées</string>
+    <string name="i65">Utiliser des oeufs bien frais !</string>
+    <string name="i66">Les préparations à base de feuilles de romarin sont déconseillés à cause de ses effets
+        neurotoxiques.
+    </string>
+
+</resources>

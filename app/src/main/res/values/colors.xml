@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">@android:color/black</color>
+
+    <color name="grey">#979797</color>
+    <color name="dark_grey_transparent_toolbar">#60343233</color>
+    <color name="pink">#FFE4E1</color>
+    <color name="pink_transparent">#60FFE4E1</color>
+
+</resources>

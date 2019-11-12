@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@id/action_fruit_vegetable"
+          android:enabled="true"
+          android:icon="@drawable/ic_healthy_food"
+          android:title="@string/nav_fruit_vegetable_title"
+          app:showAsAction="ifRoom"/>
+
+    <item android:id="@id/action_meat_fish"
+          android:enabled="true"
+          android:icon="@drawable/ic_meat"
+          android:title="@string/nav_meat_fish_title"
+          app:showAsAction="ifRoom"/>
+
+    <item android:id="@id/action_drink"
+          android:enabled="true"
+          android:icon="@drawable/ic_drink"
+          android:title="@string/nav_drink_title"
+          app:showAsAction="ifRoom"/>
+
+    <item android:id="@id/action_cheese"
+          android:enabled="true"
+          android:icon="@drawable/ic_cheese"
+          android:title="@string/nav_cheese_title"
+          app:showAsAction="ifRoom"/>
+
+    <item android:id="@id/action_other"
+          android:enabled="true"
+          android:icon="@drawable/ic_other"
+          android:title="@string/nav_other_title"
+          app:showAsAction="ifRoom"/>
+
+</menu>
